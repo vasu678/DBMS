@@ -45,4 +45,3 @@ FROM (
     SELECT * FROM negative_samples
 ) t
 ORDER BY image_id;
-
